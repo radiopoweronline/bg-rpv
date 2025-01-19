@@ -70,7 +70,7 @@ h1:before {
 	position: absolute;
 	height: 100%;
 	width: 10px;
-	background: #10aaaf;
+	background: #fdee00;
 	text-transform: uppercase;
 }
 .responsive-vimeo {
@@ -759,7 +759,7 @@ header .container {
 	display: block;
 	height: 29px;
 	width: 29px;
-	background: #00fd19;
+	background: #fdee00;
 	color: #020202;
 	text-align: center;
 	line-height: 29px;
@@ -2313,7 +2313,7 @@ blockquote{
    ========================*/
 footer .container {
 	position: relative;
-	border-top: 3px solid #10aaaf;
+	border-top: 3px solid #fdee00;
 	padding-top: 40px;
 	padding-bottom: 100px;
 }
